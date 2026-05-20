@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+assets/car_images/*
+!assets/car_images/.gitkeep
